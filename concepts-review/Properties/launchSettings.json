@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "concepts-review": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

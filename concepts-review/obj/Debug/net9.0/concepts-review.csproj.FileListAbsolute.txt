@@ -1,0 +1,14 @@
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\bin\Debug\net9.0\concepts-review.exe
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\bin\Debug\net9.0\concepts-review.deps.json
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\bin\Debug\net9.0\concepts-review.runtimeconfig.json
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\bin\Debug\net9.0\concepts-review.dll
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\bin\Debug\net9.0\concepts-review.pdb
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.AssemblyInfoInputs.cache
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.AssemblyInfo.cs
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.dll
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\refint\concepts-review.dll
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.pdb
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\concepts-review.genruntimeconfig.cache
+C:\Users\Wilson Carvajal\Desktop\dot-net\concepts-review\obj\Debug\net9.0\ref\concepts-review.dll
