@@ -1,0 +1,45 @@
+# Ignore the build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]evelopment/
+[Dd]ist/
+[Dd]ebug/*/
+[Dd]ebugPublic/*/
+[Dd]evelopment/*/
+[Dd]ist/*/
+
+# Ignore the build output directories for .NET Core and .NET 5/6/7+ projects
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+.vs/
+.vs2019/
+.vs2017/
+.vs2015/
+
+# User-specific config for Rider
+.idea/
+
+# ASP.NET Scaffolding
+Scaffolding/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files for SDK-style projects
+Publish/
+
+# User-specific files for Visual Studio for Mac
+.vscode/
+
+# JetBrains Rider settings folder
+.idea/
+
+# .NET Core global tools
+.dotnet/
