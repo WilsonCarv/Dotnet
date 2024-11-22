@@ -40,6 +40,22 @@ namespace concepts_review.ObjectOriented
         {
             Console.WriteLine($"Hi, my name is {FirstName} and I am {Age} years old");
         }
+
+        public override bool Equals(object? obj)
+        {
+            return base.Equals(obj);
+        }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
+        public override string? ToString()
+        {
+            return base.ToString();
+        }
+
         ~Human()
         {
             Console.WriteLine("Human destroyed");
