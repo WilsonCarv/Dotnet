@@ -15,10 +15,10 @@ namespace concepts_review.ArraysReview
             arrayList.Add("Hello");
             arrayList.Add("World");
             Console.WriteLine("ArrayList: {0}", string.Join(", ", arrayList));
-            //foreach(var item in arrayList)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            foreach (var item in arrayList)
+            {
+                Console.WriteLine(item);
+            }
             Console.ReadKey();
         }
     }
